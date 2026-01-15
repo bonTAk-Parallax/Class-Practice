@@ -1,4 +1,4 @@
-#incomplete
+#Complete
 class operate:
     tlst =  [-25, -10, -7, -3, 2, 4, 8, 10]
     def op(self):
